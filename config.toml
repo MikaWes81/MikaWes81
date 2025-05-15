@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://mikawes81.github.io/mikawes81/'
 languageCode = 'en-us'
 title = 'My website'
 theme = 'typo'
