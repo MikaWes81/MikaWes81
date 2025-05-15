@@ -3,6 +3,12 @@ languageCode = 'en-us'
 title = 'My website'
 theme = 'typo'
 
+[languages]
+  [languages.en]
+    languageCode = "en-us"
+    languageName = "English"
+    weight = 1
+
 # Google analytics code
 
 
