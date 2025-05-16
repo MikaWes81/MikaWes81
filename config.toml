@@ -57,15 +57,15 @@ url = "https://github.com/user"
 # Main menu pages
 [[params.menu]]
 name = "home"
-url = "/"
+url = "/book/"
 
 [[params.menu]]
 name = "posts"
-url = "/posts"
+url = "/book/posts"
 
 [[params.menu]]
 name = "about"
-url = "/about"
+url = "/book/about"
 
 # Syntax highlight on code blocks
 [markup]
