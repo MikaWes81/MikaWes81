@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: erhbo-vadgr
-created: 2025-05-15T23:34:53+02:00
