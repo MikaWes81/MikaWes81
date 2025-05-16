@@ -1,6 +1,6 @@
-baseURL = 'https://mikawes81.github.io/mikawes81/'
+baseURL = 'https://mikawes81.github.io/book/'
 languageCode = 'en-us'
-title = 'My website'
+title = 'Bücherwelt'
 theme = 'typo'
 
 [languages]
@@ -9,15 +9,12 @@ theme = 'typo'
     languageName = "English"
     weight = 1
 
-# Google analytics code
-
-
 [taxonomies]
 tag = 'tags'
 
 [params]
 # Meta description
-description = "A Tech Blog"
+description = ""
 
 # Appearance settings
 theme = 'auto'
@@ -25,11 +22,9 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Bücherwelt'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
-"""
+Ein ort wo ich die bücher vorstelle die ich gelesen oder gehört habe"""
 
 # Collection to display on home
 homeCollectionTitle = 'Posts'
