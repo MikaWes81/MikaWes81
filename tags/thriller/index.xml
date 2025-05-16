@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Bücherwelt</title>
-    <link>https://mikawes81.github.io/book/</link>
-    <description>Recent content in Home on Bücherwelt</description>
+    <title>Thriller on Bücherwelt</title>
+    <link>https://mikawes81.github.io/book/tags/thriller/</link>
+    <description>Recent content in Thriller on Bücherwelt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mikawes81.github.io/book/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mikawes81.github.io/book/tags/thriller/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eleria</title>
       <link>https://mikawes81.github.io/book/posts/eleria/</link>
