@@ -62,7 +62,7 @@ fi
 
 # Step 4: Build the Hugo site
 echo "Building the Hugo site..."
-if ! hugo; then
+if ! hugo -t typo; then
     echo "Hugo build failed."
     exit 1
 fi
