@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mikawes81.github.io/book/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mikawes81.github.io/book/posts/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mikawes81.github.io/book/posts/posts/zap/</loc>
+    <lastmod>2025-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mikawes81.github.io/book/posts/posts/geistkrieger/</loc>
+    <lastmod>2025-05-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://mikawes81.github.io/book/posts/posts/cryptos/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mikawes81.github.io/book/tags/dystopi/</loc>
-    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mikawes81.github.io/book/</loc>
-    <lastmod>2025-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mikawes81.github.io/book/posts/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mikawes81.github.io/book/tags/</loc>

@@ -1,29 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Bücherwelt</title>
+    <title>Bücherwelt</title>
     <link>https://mikawes81.github.io/book/</link>
-    <description>Recent content in Home on Bücherwelt</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content on Bücherwelt</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://mikawes81.github.io/book/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mikawes81.github.io/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZAP</title>
+      <link>https://mikawes81.github.io/book/posts/posts/zap/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mikawes81.github.io/book/posts/posts/zap/</guid>
+      <description>&lt;p&gt;In Zap geht es um die Geschichte von Finn der in eine kleine Stadt gezogen waren und dort seltsame Dinge erlebt. Die Geschichte ist kurze und super wenn man mal einen andere Welt abtauchen möchte. Doch die Geschichte ist leider nicht immer ganz einfach.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Geistkrieger</title>
+      <link>https://mikawes81.github.io/book/posts/posts/geistkrieger/</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mikawes81.github.io/book/posts/posts/geistkrieger/</guid>
+      <description>&lt;p&gt;Die beiden Bücher der Reihe Gasterkrieger von der Autorin Sonja Rüthen sind zwei hervorragende Bücher. Sie erzählen die Geschichte der Polizeieinheit Geistkrieger die im fantastischen Land Potanka arbeiten. Und welche Höhen und Tiefen es dabei gibt. Und wie sich die seltsamen Morde aufklären lassen. Die Charaktere haben in der Geschichte ein tolles Miteinander entwickelt und zeigen wie sie an der Geschichte gewachsen sind.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cryptos</title>
       <link>https://mikawes81.github.io/book/posts/posts/cryptos/</link>
       <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://mikawes81.github.io/book/posts/posts/cryptos/</guid>
-      <description>Der Roman Cryptos handelt von der Geschichte wo die Menschen auf einen Welt leben die hauptsächlich digital stattfindet. Die Geschichte ist meinerseits einen Absulute empfelung wenn man Thriller liebt und dazu eine gute Geschichte lesen wollen.</description>
+      <description>&lt;p&gt;Der Roman Cryptos handelt von der Geschichte wo die Menschen auf einen Welt leben die hauptsächlich digital stattfindet. Die Geschichte ist meinerseits einen Absulute empfelung wenn man Thriller liebt und dazu eine gute Geschichte lesen wollen.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Eleria</title>
       <link>https://mikawes81.github.io/book/posts/posts/eleria/</link>
       <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
-      
       <guid>https://mikawes81.github.io/book/posts/posts/eleria/</guid>
-      <description>Eleria ist eines der Bücher die allen empfehlen würde die ein gutes Buch lesen wollen da die Geschichte einen mitnimmt und in eine Welt einführt die sehr kreativ umgesetzt wurde. Das buch behandelt Themen in einer dystopischen Welt. Und es werden Themen behandelt die schwierig sind wenn man darüber schreiben soll. Und die behandelten Themen sind in dieser Geschichte wirklich gut erzählt sodass man entspannen kann wenn man diese Geschichte liest.</description>
+      <description>&lt;p&gt;Eleria ist eines der Bücher die allen empfehlen würde die ein gutes Buch lesen wollen da die Geschichte einen mitnimmt und in eine Welt einführt die sehr kreativ umgesetzt wurde.&#xA;Das buch behandelt Themen in einer dystopischen Welt. Und es werden Themen behandelt die schwierig sind wenn man darüber schreiben soll. Und die behandelten Themen sind in dieser Geschichte wirklich gut erzählt sodass man entspannen kann wenn man diese Geschichte liest.&#xA;&lt;img src=&#34;die-verratenen-mp3-julia-nachtmann.jpeg&#34; alt=&#34;&#34;&gt;&#xA;bild: thalia&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
